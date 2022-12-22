@@ -9,3 +9,13 @@ C:\Users\Nick-_-\Desktop\Chacha\Chacha\obj\Debug\Chacha.csproj.GenerateResource.
 C:\Users\Nick-_-\Desktop\Chacha\Chacha\obj\Debug\Chacha.csproj.CoreCompileInputs.cache
 C:\Users\Nick-_-\Desktop\Chacha\Chacha\obj\Debug\Chacha.exe
 C:\Users\Nick-_-\Desktop\Chacha\Chacha\obj\Debug\Chacha.pdb
+C:\Users\pibo0121030\source\repos\Dawn\Chacha\bin\Debug\Chacha.exe.config
+C:\Users\pibo0121030\source\repos\Dawn\Chacha\bin\Debug\Chacha.exe
+C:\Users\pibo0121030\source\repos\Dawn\Chacha\bin\Debug\Chacha.pdb
+C:\Users\pibo0121030\source\repos\Dawn\Chacha\obj\Debug\Chacha.csproj.AssemblyReference.cache
+C:\Users\pibo0121030\source\repos\Dawn\Chacha\obj\Debug\Chacha.Form1.resources
+C:\Users\pibo0121030\source\repos\Dawn\Chacha\obj\Debug\Chacha.Properties.Resources.resources
+C:\Users\pibo0121030\source\repos\Dawn\Chacha\obj\Debug\Chacha.csproj.GenerateResource.cache
+C:\Users\pibo0121030\source\repos\Dawn\Chacha\obj\Debug\Chacha.csproj.CoreCompileInputs.cache
+C:\Users\pibo0121030\source\repos\Dawn\Chacha\obj\Debug\Chacha.exe
+C:\Users\pibo0121030\source\repos\Dawn\Chacha\obj\Debug\Chacha.pdb
