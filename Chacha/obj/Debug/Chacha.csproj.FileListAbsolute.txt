@@ -1,0 +1,11 @@
+C:\Users\Nick-_-\Desktop\Chacha\Chacha\bin\Debug\Chacha.exe.config
+C:\Users\Nick-_-\Desktop\Chacha\Chacha\bin\Debug\Chacha.exe
+C:\Users\Nick-_-\Desktop\Chacha\Chacha\bin\Debug\Chacha.pdb
+C:\Users\Nick-_-\Desktop\Chacha\Chacha\obj\Debug\Chacha.csproj.AssemblyReference.cache
+C:\Users\Nick-_-\Desktop\Chacha\Chacha\obj\Debug\Chacha.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nick-_-\Desktop\Chacha\Chacha\obj\Debug\Chacha.Form1.resources
+C:\Users\Nick-_-\Desktop\Chacha\Chacha\obj\Debug\Chacha.Properties.Resources.resources
+C:\Users\Nick-_-\Desktop\Chacha\Chacha\obj\Debug\Chacha.csproj.GenerateResource.cache
+C:\Users\Nick-_-\Desktop\Chacha\Chacha\obj\Debug\Chacha.csproj.CoreCompileInputs.cache
+C:\Users\Nick-_-\Desktop\Chacha\Chacha\obj\Debug\Chacha.exe
+C:\Users\Nick-_-\Desktop\Chacha\Chacha\obj\Debug\Chacha.pdb
