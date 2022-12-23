@@ -17,15 +17,34 @@ namespace Chacha
         public Form1()
         {
             InitializeComponent();
-
-            //string[] countries = { "Бразилия", "Аргентина", "Чили", "Уругвай", "Колумбия" };
-            //listBox1.Items.AddRange(countries);
+            AutoCompleteStringCollection source = new AutoCompleteStringCollection()
+        {
+            "Природный",
+            "Товарный"
+        };
+            textBox3.AutoCompleteCustomSource = source;
+            textBox3.AutoCompleteMode = AutoCompleteMode.Suggest;
+            textBox3.AutoCompleteSource = AutoCompleteSource.CustomSource;
         }
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
 
         }
 
+        private void textBox3_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox7_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            char number = e.KeyChar;
+
+            if (!Char.IsDigit(number))
+            {
+                e.Handled = true;
+            }
+        }
 
         private void button1_Click(object sender, EventArgs e)
         {
